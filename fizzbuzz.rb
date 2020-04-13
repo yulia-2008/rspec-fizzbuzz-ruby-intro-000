@@ -10,5 +10,8 @@ elsif
 elsif
   int % 3 == 0 && int % 5 == 0
   fizz_15 = "FizzBuzz"
+else 
+  int % 3 !== 0 && int % 5 !==0
+  fizz
 end
 end
