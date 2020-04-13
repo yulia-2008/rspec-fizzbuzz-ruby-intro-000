@@ -8,7 +8,7 @@ elsif
   int % 5 == 0
   fizz_5 = "Buzz"
 else 
-  int % 15 == 0
+  int % 3 == 0 && int % 5 == 5
   fizz_15 = "FizzBuzz"
 end
 end
