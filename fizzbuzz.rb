@@ -9,6 +9,6 @@ elsif
   fizz_3 = "Buzz"
 else 
   int % 15 == 0
-  fizz_3 = "FizzBuzz"
+  fizz_15 = "FizzBuzz"
 end
 end
