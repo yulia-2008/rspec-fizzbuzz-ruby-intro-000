@@ -5,9 +5,10 @@ def fizzbuzz(int)
  if int % 3 == 0 
   fizz_3 = "Fizz"
 elsif
-  int % 5 ==0
+  int % 5 == 0
   fizz_3 = "Buzz"
 else 
-  int % 
+  int % 15 == 0
+  fizz_3 = "FizzBuzz"
 end
 end
